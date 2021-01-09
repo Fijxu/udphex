@@ -6,3 +6,7 @@ go run udphex.go HOST PORT
 
 # Stop Attack
 Ctrl+C
+
+# Credits
+Instagram | bizivix\
+Discord | draco#3024
