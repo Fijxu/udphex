@@ -2,11 +2,11 @@
 This Is A UDP DoS Method Which Sends A Hex String.
 
 # Use without compile
-**Reqieres golang installed**\
+**Requires golang installed**\
 `go run udphex.go HOST PORT`
 
 # Compile :)
-**Also reqieres golang installed, but you can use it in multiple machines without install golang in every machine**\
+**Also requires golang installed, but you can use it in multiple machines without install golang in every machine**\
 `go build`\
 Then search for the udphex binary file
 
