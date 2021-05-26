@@ -36,9 +36,6 @@ Then copy that here and compile it or watever you want lol.\
 # Stop Attack
 Ctrl+C
 
-# Credits/Made By
-Instagram | bizivix\
-Discord | draco#3024
-
 # Edited by 
 The one that forked this.
+The original repository was deleted OMEGALUL
